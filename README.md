@@ -35,7 +35,7 @@ Before starting this project, ensure you have the following:
 
 - **Objective:** Automatically configure the EC2 instances with a web server and deploy a simple HTML application.
 - **Details:** 
-    - Use the following user data script during the EC2 instance launch to install Apache, start the web server, and deploy an HTML page.
+    - Use the user data script (see bash script within repo) during the EC2 instance launch to install Apache, start the web server, and deploy an HTML page.
 
 ### 4. Create the Application Load Balancer (ALB)
 
